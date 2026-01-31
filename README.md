@@ -17,3 +17,11 @@ For this project, Ioannis and Daniel collaborated and design a circuit breaker u
 
 
 **Testing physical:**
+
+
+<img width="1689" height="693" alt="Screenshot 2026-02-01 102708" src="https://github.com/user-attachments/assets/f633a8b5-236b-4d05-93d6-516350c6d6ff" />
+<img width="1689" height="693" alt="Screenshot 2026-02-01 102708" src="https://github.com/user-attachments/assets/831f0f24-5395-4e0d-b476-042fd8e65cb5" />
+<img width="1689" height="693" alt="Screenshot 2026-02-01 102708" src="https://github.com/user-attachments/assets/4d8000c2-d820-4c14-bc0b-ab890dc33ecd" />
+
+
+
