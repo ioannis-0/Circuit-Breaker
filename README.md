@@ -20,8 +20,10 @@ For this project, Ioannis and Daniel collaborated and design a circuit breaker u
 
 
 <img width="1689" height="693" alt="Screenshot 2026-02-01 102708" src="https://github.com/user-attachments/assets/f633a8b5-236b-4d05-93d6-516350c6d6ff" />
-<img width="1689" height="693" alt="Screenshot 2026-02-01 102708" src="https://github.com/user-attachments/assets/831f0f24-5395-4e0d-b476-042fd8e65cb5" />
-<img width="1689" height="693" alt="Screenshot 2026-02-01 102708" src="https://github.com/user-attachments/assets/4d8000c2-d820-4c14-bc0b-ab890dc33ecd" />
+<img width="1666" height="613" alt="Screenshot 2026-02-01 102822" src="https://github.com/user-attachments/assets/a1560171-4a08-4746-845e-86724d5f02e8" />
+<img width="1679" height="728" alt="Screenshot 2026-02-01 103119" src="https://github.com/user-attachments/assets/c27dfc10-89f4-443e-8e84-f19b8c4c4662" />
+
+
 
 
 
