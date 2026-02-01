@@ -11,7 +11,7 @@ To verify the inital design's feasability, LT SPICE simulations were run with ou
 <ins> Relay Section: <ins/>
 <img width="2559" height="1381" alt="image" src="https://github.com/user-attachments/assets/2c6fd94b-4084-4644-921f-7c26ce1c2846" />
 
-<ins> BJT section: <ins/>
+<ins> BJT Section: <ins/>
 <img width="2559" height="1425" alt="image" src="https://github.com/user-attachments/assets/01631155-4b5e-45f8-ae27-a0c3399f66cb" />
 
 
