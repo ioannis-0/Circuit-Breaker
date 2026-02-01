@@ -7,6 +7,7 @@ For this project, Ioannis and Daniel collaborated and design a circuit breaker u
 **Testing simulation:** Once the circuit was created on LTspice the next step was to run simulation testing on the circuit. As the images down below show the different types of testing that had occurred.
 LT SPICE SImulation
 To verify the inital design's feasability, LT SPICE simulations were run with outputs determining the expected behaviour of each segment. Comparison between the sine input and output confirm the two comparators correctly allow the desired voltage ranges to trigger the BJTs.
+
 <ins> Relay Section <ins/>
 <img width="2559" height="1381" alt="image" src="https://github.com/user-attachments/assets/2c6fd94b-4084-4644-921f-7c26ce1c2846" />
 
